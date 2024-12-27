@@ -1,2 +1,2 @@
 # tests_to_lestaGames
-3 tasks for test
+Решение задач разбиты по файлам с коментариями в коде
